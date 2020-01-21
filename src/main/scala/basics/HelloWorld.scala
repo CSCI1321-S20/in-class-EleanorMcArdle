@@ -9,7 +9,7 @@ object HelloWorld {
 	def main(args: Array[String]): Unit = {
     println("What is your name?")
     val name = readLine().trim()
-    println(s"Hello $name!")
+    println(s"hello $name!")
 	}
 	
 	def square(x: Double) = x*x
