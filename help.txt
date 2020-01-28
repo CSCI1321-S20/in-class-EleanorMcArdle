@@ -1,0 +1,8 @@
+north, south, east, west, up, down - move in the indicated direction
+look - reprints the description of the current room
+inv - list the contents of your inventory
+get item - to get an item from the room and add it to your inventory
+drop item - to drop an item from your inventory into the room.
+exit - leave the game
+help - print the available commands and what they do
+
